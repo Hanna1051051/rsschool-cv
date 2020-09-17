@@ -57,6 +57,6 @@ Javascript
  1. responsible 
  2. reliable 
  3. hardworking 
- 4. willing to learn.	 
+ 4. willing to learn 
 	 
 
