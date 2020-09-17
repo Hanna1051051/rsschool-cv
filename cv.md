@@ -47,6 +47,7 @@ Javascript
      * English (advanced)
      * Spain ( B2 )
      * Polish( B1 )
+     * Russian( native )
 	 
 	 
 	
